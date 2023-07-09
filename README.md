@@ -28,4 +28,11 @@ Introducing, leaf-it! Our innovative AI-powered trash can that can handle e-wast
 
 **Authors of this project**
 
+
+**Links**
+Figma Prototype: https://www.figma.com/file/fqso6vX0LQSyxNabhKFWUL/Leaf-It!?type=design&node-id=0%3A1&mode=design&t=rUyfLa5nT5f2IYmH-1
+
+**Technologies Used**
+
+
 </p>
