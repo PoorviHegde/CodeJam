@@ -30,10 +30,10 @@ Introducing, leaf-it! Our innovative AI-powered trash can that can handle e-wast
 Malaikah Hussain, Poorvi Hegde, Rishika Thorat, Savanna Pan
 
 **Links**
-Figma Prototype: Smart Waste Manager (Linked above)
-Figma Prototype: Smart Waste Locator (Linked above)
-Live Figma Prototype : https://www.figma.com/file/fqso6vX0LQSyxNabhKFWUL/Leaf-It!?type=design&node-id=0%3A1&mode=design&t=rUyfLa5nT5f2IYmH-1
-Demo Video: 
+Figma Prototype: Smart Waste Manager (Linked above)  </br>
+Figma Prototype: Smart Waste Locator (Linked above)  </br>
+Live Figma Prototype : https://www.figma.com/file/fqso6vX0LQSyxNabhKFWUL/Leaf-It!?type=design&node-id=0%3A1&mode=design&t=rUyfLa5nT5f2IYmH-1  </br>
+Demo Video:  </br>
 
 **Technologies**
  
