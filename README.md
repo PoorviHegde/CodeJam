@@ -1,4 +1,4 @@
-# CodeJam
+# CodeJam: Leaf-It!
 <p align="justify"> 
 
 **Our motivation**
