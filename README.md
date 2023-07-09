@@ -23,19 +23,17 @@ Introducing, leaf-it! Our innovative AI-powered trash can that can handle e-wast
 
 - If the user’s garbage is not of an acceptable type, the algorithm generates information on the nearest location that can correctly dispose of that type of garbage (nearest battery disposal center, needles, explosives etc...), the user would be given the option to have the information texted/ emailed to them so they can safely dispose of their garbage.
 
-**About E-waste**
+**About E-waste**  </br>
 
 
-**Authors of this project**
+**Authors of this project**  </br>
 Malaikah Hussain, Poorvi Hegde, Rishika Thorat, Savanna Pan
 
-**Links**
+**Links**  </br>
 Figma Prototype: Smart Waste Manager (Linked above)  </br>
 Figma Prototype: Smart Waste Locator (Linked above)  </br>
 Live Figma Prototype : https://www.figma.com/file/fqso6vX0LQSyxNabhKFWUL/Leaf-It!?type=design&node-id=0%3A1&mode=design&t=rUyfLa5nT5f2IYmH-1  </br>
 Demo Video:  </br>
 
-**Technologies**
- 
 
 </p>
