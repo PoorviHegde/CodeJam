@@ -2,7 +2,7 @@
 <p align="justify"> 
 
 
-
+![Alt Text](Logo.png)
 **Our motivation**
 
 Imagine a world where everyone disposes of their trash responsibly. Here at Leaf Life Love, we help people separate their trash! According to a survey in 2019, only 53% of surveyed citizens in the United States stated that they separated their waste. Based on another survey in 2020, people around the world feel that the lack of programs/services to enable recycling is what stops them from recycling more. The world is in need of a better trash disposal system. </br>
