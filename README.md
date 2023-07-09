@@ -1,6 +1,28 @@
 # CodeJam
 <p align="justify"> 
-You know what's the one thing that we (the team behind this product) cannot stand? When people don't seperate their trash! According to a survey in 2019, only 53% of surveyed citizens in the United States stated that they always separated their waste. According to another survey in 2020, people around the world feel that lack of programs/services to enable recycling is what stops them from recycling more. </br>
-Yes, we know that we live in a busy world where people don't have time and yes, even if there's time, people just are lazy. And we get that sometimes, it's just hard to figure out what goes where. I mean, the bottle in my hand looks like it should be recycled. But I don't see the symbol! I'm so confused! Relaaax, that's why we're here! With the most innovative solution for waste management - a smart trash can! No, no, we're not like those folks who attach the word 'smart' to a dummy bin that can open with a hand wave. We mean it when we call it smart, because guess what? That's correct! It's AI powered! </br>
-How does that work, you ask? Okay, It's very simple. Our application, that runs on a smart device that is attached to a trash can, has the ability to scan the trash that you have in your hand and in split seconds using our Computer Vision technology, categorize it into the right category using our AI model, and FORCE the user to comply by only opening the door for the right catgory. How smart, right?! Also also, it has recommendations when you have an item that does not fall into a category! Very cool indeed. What's more, apart from the regular categories of Recycle, Landfill and Compost, it also can take e-waste because  WE KNOW that e-waste disposal is hard. Wait! we're not done with the features, Remember? "Smart". So what if it fails to recognize? No issues, it can scan again. What if it fails again? Great opportunity to continuosly retrain the model, it can take YOUR input in text AND speech form. What if it makes a mistake? Please forgive, it's just a machine. But you can help it by letting it know that it made a mistake, so it won't again.
+
+**Our motivation**
+
+Imagine a world where everyone disposes of their trash responsibly. Here at Leaf Life Love, we help people separate their trash! According to a survey in 2019, only 53% of surveyed citizens in the United States stated that they separated their waste. Based on another survey in 2020, people around the world feel that the lack of programs/services to enable recycling is what stops them from recycling more. The world is in need of a better trash disposal system. </br>
+
+We are aware of the fact that people are busy. And sometimes, we may feel as if throwing out our trash should be the least of our worries. Or perhaps, we are too afraid to admit that we don't know what to do with the disposal we have in our hands. Should I throw my water bottle in the landfill bin? Or should I recycle this in the compost bin? </br>
+
+Introducing, leaf-it! Our innovative AI-powered trash can that can handle e-waste recycling along with taking care of landfill, compost, organics, plastic and paper recycling. Leaf-it! can efficiently identify the type of trash that is being disposed of, and guide the user to dispose of their trash in the correct bin. </br>
+
+**Our design**
+
+- The main UI will be hosted by a screen that prompts the user to scan their garbage 
+
+- The basic scanner is located below the screen (price checker type scanner) 
+
+- There is a small organics bin for users to dispose of food before disposing of their garbage (prompt the user “Do you have any organics?” if yes, then instruct them to dispose   of the organics before disposing of the rest of the garbage) 
+
+- There is an e-waste section incorporated into the disposal options.
+
+- Have an accuracy correction feedback system that the user can participate in to make our AI more accurate at identifying the types of garbage (prompt "this is _______ (recycling, landfill etc...) correct? If the garbage type was incorrectly identified, the AI would ask the user to manually enter the type of garbage and collect the responses to refine the model.
+
+- If the user’s garbage is not of an acceptable type, the algorithm generates information on the nearest location that can correctly dispose of that type of garbage (nearest battery disposal center, needles, explosives etc...), the user would be given the option to have the information texted/ emailed to them so they can safely dispose of their garbage.
+
+**About e-waste**
+
 </p>
