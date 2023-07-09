@@ -25,4 +25,7 @@ Introducing, leaf-it! Our innovative AI-powered trash can that can handle e-wast
 
 **About e-waste**
 
+
+**Authors of this project**
+
 </p>
