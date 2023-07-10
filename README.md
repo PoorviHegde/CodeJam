@@ -30,7 +30,7 @@ Introducing, **Leaf-It**! Our innovative AI-powered trash-can that _can_ handle 
 https://github.com/PoorviHegde/CodeJam/assets/95773832/caaf56dc-4fa2-4474-8a1c-b57db5be1113
 
 ## Feasability and the Future
-With our advanced technology and collaboration with OpenAI, we are well-positioned to lead the way in using AI to create a sustainable environment. Partnering sustainability leadership and leveraging government funding, we aim to analyze data, invest in responsible recycling methods, and make AI accessible worldwide. Our ultimate goal is to revolutionize waste management and drive positive change, ensuring a greener future for all.
+With our advanced technology and collaboration with OpenAI, we are well-positioned to lead the way in using AI to create a sustainable environment. Partnering with sustainability leadership and leveraging government funding, we aim to analyze data, invest in responsible recycling methods, and make AI accessible worldwide. Our ultimate goal is to revolutionize waste management and drive positive change, ensuring a greener future for all.
 
 <img src="TheFuture..jpg" alt="Alt Text" align="right" width="300"> <br>
 
