@@ -31,6 +31,11 @@ https://github.com/PoorviHegde/CodeJam/assets/95773832/caaf56dc-4fa2-4474-8a1c-b
 <img src="TheFuture.jpg" alt="Alt Text" align="right" width="300">
 *We envision our future filled with Leaf-It! stations.*
 
+<figure>
+  <img src="TheFuture.jpg" alt="Alt Text" width="300">
+  <figcaption>We envision our future filled with Leaf-It! stations.</figcaption>
+</figure>
+
 ## Links 
 📌 [Smart Waste Locator](https://github.com/PoorviHegde/CodeJam/blob/main/Smart%20Waste%20Locator.pdf) </br>
 🗑️ [Smart Waste Manager](https://github.com/PoorviHegde/CodeJam/blob/main/Smart%20Waste%20Manager.pdf)  </br>
