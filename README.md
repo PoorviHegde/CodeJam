@@ -30,13 +30,12 @@ Introducing, **Leaf-It**! Our innovative AI-powered trash-can that _can_ handle 
 
 
 ## Links </br>
-[Smart Waste Locator](https://github.com/PoorviHegde/CodeJam/blob/main/Smart%20Waste%20Locator.pdf). </br>
-[Smart Waste Manager](https://github.com/PoorviHegde/CodeJam/blob/main/Smart%20Waste%20Manager.pdf)  </br>
-[Live Figma Prototype](https://www.figma.com/file/fqso6vX0LQSyxNabhKFWUL/Leaf-It!?type=design&node-id=0%3A1&mode=design&t=rUyfLa5nT5f2IYmH-1)  </br>
-[Leaf-It! Demo Video](https://youtu.be/A70JkON8PBY)  </br>
+🗺️ [Smart Waste Locator](https://github.com/PoorviHegde/CodeJam/blob/main/Smart%20Waste%20Locator.pdf). </br>
+🗑️ [Smart Waste Manager](https://github.com/PoorviHegde/CodeJam/blob/main/Smart%20Waste%20Manager.pdf)  </br>
+🖥️ [Live Figma Prototype](https://www.figma.com/file/fqso6vX0LQSyxNabhKFWUL/Leaf-It!?type=design&node-id=0%3A1&mode=design&t=rUyfLa5nT5f2IYmH-1)  </br>
+🎥 [Leaf-It! Demo Video](https://youtu.be/A70JkON8PBY)  </br>
 
 ## Authors </br>
-Malaikah Hussain, Poorvi Hegde, Rishika Thorat, Savanna Pan
-#MicrosoftInterns
+Malaikah Hussain, Poorvi Hegde, Rishika Thorat, Savanna Pan.
 
 </p>
