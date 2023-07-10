@@ -20,8 +20,7 @@ Introducing, **Leaf-It**! Our innovative AI-powered trash-can that _can_ handle 
 
 ## Design
 - The main UI will be hosted by a screen that prompts the user to scan their garbage.
-- The basic scanner is located to the left of the screen where users can simply hold the item and the AI will detect 1) the item 2) how to responsible dispose of it.
-- There are small organic bin for users to dispose of food prior to disposing of their waste (prompt the user “Do you have any organics?” if yes, then instruct them to dispose   of the organics before disposing of the rest of the garbage).
+- The basic scanner is located to the left of the screen where users can simply hold the item and the AI will detect (1) the item (2) how to responsible dispose of it.
 - There is an e-waste section incorporated into the disposal options.
 - Have an accuracy correction feedback system that the user can participate in to make our AI more accurate at identifying the types of garbage (prompt "this is _______ (recycling, landfill etc...) correct? If the garbage type was incorrectly identified, the AI would ask the user to manually enter the type of garbage and collect the responses to refine the model.
 - If the user’s garbage is not of an acceptable type, the algorithm generates information on the nearest location that can correctly dispose of that type of garbage (nearest battery disposal center, needles, explosives etc...) upon which the user can scan a barcode to recieve the location imeediately on their devices so they can responsibly dispose of their garbage.
