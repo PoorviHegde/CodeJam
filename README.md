@@ -13,6 +13,8 @@ According to a survey in 2019, only 53% of surveyed citizens in the United State
 
 We are aware of the fact that people are busy. And sometimes, we may feel as if throwing out our trash should be the least of our worries. Or perhaps, we are too afraid to admit that we don't know what to do with the disposal we have in our hands. Should I throw my water bottle in the landfill bin? Or should I recycle this in the compost bin? </br>
 
+## About E-waste 
+
 ## Solution
 
 Introducing, **Leaf-It**! Our innovative AI-powered trash-can that _can_ handle e-waste recycling along with taking care of landfill, compost, organics, plastic and paper recycling. **Leaf-It!** can efficiently identify the type of trash that is being disposed of, and guide the user to dispose of their trash in the correct bin. </br>
@@ -25,19 +27,15 @@ Introducing, **Leaf-It**! Our innovative AI-powered trash-can that _can_ handle 
 - Have an accuracy correction feedback system that the user can participate in to make our AI more accurate at identifying the types of garbage (prompt "this is _______ (recycling, landfill etc...) correct? If the garbage type was incorrectly identified, the AI would ask the user to manually enter the type of garbage and collect the responses to refine the model.
 - If the user’s garbage is not of an acceptable type, the algorithm generates information on the nearest location that can correctly dispose of that type of garbage (nearest battery disposal center, needles, explosives etc...) upon which the user can scan a barcode to recieve the location imeediately on their devices so they can responsibly dispose of their garbage.
 
-## About E-waste </br>
+https://github.com/PoorviHegde/CodeJam/assets/95773832/caaf56dc-4fa2-4474-8a1c-b57db5be1113
 
-
-
-## Links </br>
+## Links 
 🗺️ [Smart Waste Locator](https://github.com/PoorviHegde/CodeJam/blob/main/Smart%20Waste%20Locator.pdf) </br>
 🗑️ [Smart Waste Manager](https://github.com/PoorviHegde/CodeJam/blob/main/Smart%20Waste%20Manager.pdf)  </br>
 🖥️ [Live Figma Prototype](https://www.figma.com/file/fqso6vX0LQSyxNabhKFWUL/Leaf-It!?type=design&node-id=0%3A1&mode=design&t=rUyfLa5nT5f2IYmH-1)  </br>
 🎥 [Leaf-It! Demo Video Youtube](https://youtu.be/A70JkON8PBY)  </br>
 
-https://github.com/PoorviHegde/CodeJam/assets/95773832/caaf56dc-4fa2-4474-8a1c-b57db5be1113
-
-## Authors </br>
+## Authors 
 Malaikah Hussain, Poorvi Hegde, Rishika Thorat, Savanna Pan.
 
 </p>
