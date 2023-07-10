@@ -12,7 +12,7 @@ According to a survey in 2019, only 53% of surveyed citizens in the United State
 
 We are aware of the fact that people are busy. And sometimes, we may feel as if throwing out our trash should be the least of our worries. Or perhaps, we are too afraid to admit that we don't know what to do with the disposal we have in our hands. Should I throw my water bottle in the landfill bin? Or should I recycle this in the compost bin? </br>
 
-**E-waste** <br>
+**Addressing the E-waste Crisis** <br>
 Improper disposal of electronic waste has become a pressing global issue with severe human and environmental consequences. The lack of awareness surrounding responsible e-waste recycling perpetuates the cycle of negligence, leading to the release of hazardous substances into our soil, waterways, and air. It is imperative that we recognize the urgency of proper e-waste disposal, educate ourselves and others, and take collective action to establish accessible recycling programs. By doing so, we can minimize the harmful impact on human health, protect our environment, and pave the way for a sustainable future where technology and responsible waste management coexist harmoniously.
 
 ## Solution
