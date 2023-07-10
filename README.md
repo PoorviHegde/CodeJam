@@ -1,4 +1,4 @@
-# Leaf-It! - An AI-Powered Intelligent Trash Can 🌿🗑️🖱️!
+# Leaf-It!🌿🗑️🖱️
 <p align="justify"> 
 
 ![Alt Text](Logo.png)
