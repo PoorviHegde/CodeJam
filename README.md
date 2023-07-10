@@ -8,7 +8,7 @@
 ## Motivation
 Imagine a world where everyone disposes of their trash responsibly. Here at _Leaf Life Love_, we help people separate _**their waste**, with **our intelligence**_!
 
-According to a survey in 2019, only 53% of surveyed citizens in the United States stated that they separated their waste. Based on another survey in 2020, people around the world feel that the lack of programs/services to enable recycling is what stops them from recycling often. <br>
+According to a survey in 2019, only 53% of surveyed citizens in the United States stated that they separated their waste. Based on another survey in 2020, people around the world feel that the lack of programs/services to enable recycling is what prevents them from recycling often. <br>
 
 The world is in need of a better waste management disposal system. </br>
 
