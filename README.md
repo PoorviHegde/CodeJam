@@ -8,7 +8,9 @@
 ## Motivation
 Imagine a world where everyone disposes of their trash responsibly. Here at _Leaf Life Love_, we help people separate _their waste with our intelligence_!
 
-According to a survey in 2019, only 53% of surveyed citizens in the United States stated that they separated their waste. Based on another survey in 2020, people around the world feel that the lack of programs/services to enable recycling is what stops them from recycling often. The world is in need of a better waste management disposal system. </br>
+According to a survey in 2019, only 53% of surveyed citizens in the United States stated that they separated their waste. Based on another survey in 2020, people around the world feel that the lack of programs/services to enable recycling is what stops them from recycling often. <br>
+
+The world is in need of a better waste management disposal system. </br>
 
 We are aware of the fact that people are busy. And sometimes, we may feel as if throwing out our trash should be the least of our worries. Or perhaps, we are too afraid to admit that we don't know what to do with the disposal we have in our hands. Should I throw my water bottle in the landfill bin? Or should I recycle this in the compost bin? </br>
 
