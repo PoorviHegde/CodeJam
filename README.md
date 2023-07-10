@@ -28,11 +28,10 @@ Introducing, **Leaf-It**! Our innovative AI-powered trash-can that _can_ handle 
 
 https://github.com/PoorviHegde/CodeJam/assets/95773832/caaf56dc-4fa2-4474-8a1c-b57db5be1113
 
-We envision our future filled with such stations: 
-<img src="TheFuture.jpg" alt="Alt Text" align="right" width="300">
+
 
 <p align="We envision our future filled with such Leaf-It Stations">
-  <img src="image_file_path" alt="Alt Text" width="200">
+  <img src="TheFuture.jpg" alt="Alt Text" width="200">
 </p>
 
 ## Links 
