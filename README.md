@@ -32,7 +32,7 @@ https://github.com/PoorviHegde/CodeJam/assets/95773832/caaf56dc-4fa2-4474-8a1c-b
 
 
 <div style="text-align: right;">
-  <h2>Hello</h2>
+  <h1>We envision our future filled with Leaf-It! stations.</h1>
   <img src="TheFuture.jpg" alt="Alt Text" style="width: 200px;">
 </div>
 
