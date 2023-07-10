@@ -29,7 +29,7 @@ Introducing, **Leaf-It**! Our innovative AI-powered trash-can that _can_ handle 
 https://github.com/PoorviHegde/CodeJam/assets/95773832/caaf56dc-4fa2-4474-8a1c-b57db5be1113
 
 We envision our future filled with such stations:
-![Alt Text](DeployedVersion.png)
+![Alt Text](DeployedVersion.jpg)
 
 ## Links 
 📌 [Smart Waste Locator](https://github.com/PoorviHegde/CodeJam/blob/main/Smart%20Waste%20Locator.pdf) </br>
