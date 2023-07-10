@@ -6,7 +6,7 @@
 > "We believe sustainability is not only a necessity but also an incredible opportunity to drive innovation, create new business value, and shape a better future for all." - Satya Nadella, CEO of Microsoft
 
 ## Motivation
-Imagine a world where everyone disposes of their trash responsibly. Here at _Leaf Life Love_, we help people separate their waste with our intelligence!
+Imagine a world where everyone disposes of their trash responsibly. Here at _Leaf Life Love_, we help people separate _their waste with our intelligence_!
 
 According to a survey in 2019, only 53% of surveyed citizens in the United States stated that they separated their waste. Based on another survey in 2020, people around the world feel that the lack of programs/services to enable recycling is what stops them from recycling often. The world is in need of a better waste management disposal system. </br>
 
