@@ -1,7 +1,7 @@
 ## Leaf-It! 
 <p align="justify"> 
 
-![Alt Text](Logo(Leaf-It!.png)
+![Alt Text](Logo(Leaf-It!).png)
 
 **Motivation**
 
