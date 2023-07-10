@@ -33,6 +33,7 @@ With our advanced technology and collaboration with OpenAI, we are well-position
 <img src="TheFuture..jpg" alt="Alt Text" align="right" width="300"> <br>
 
 We imagine a future where people don't just 'leave it' when it comes to trash disposal but instead choose to 'Leaf-It!'—taking an active role in responsible waste management.<br>
+
 We envision our future filled with **Leaf-It!** stations.
 
 ## Links 
